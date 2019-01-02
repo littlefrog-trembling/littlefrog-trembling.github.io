@@ -1,15 +1,40 @@
 body {
-  background: #000000; 
-  font-family: georgia;
-} 
-h1 { 
-  color: #ff5c5c;
+	margin: 0;
+	background: #ffffff;
+	font-family: georgia;
 }
+
+header {
+	background: #999999;
+	color: black;
+	padding: 20px;
+}
+
+header h1 {
+	color: black;
+
+}
+
+nav ul {
+	margin: 0;
+	display: ;
+}
+
+nav ul li {
+	background: #5c5cff;
+	color: #ff5c5c;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	margin: 0;
+}
+
+p {
+	background: none;
+	color: black;
+	padding: 10px;
+}
+
 a {
-  color: #ff5c5c;
-}
-p { 
-  background: #000000; 
-  color: #ff5c5c;
-  padding: 10px;
+	color: #ff5c5c;
 }
