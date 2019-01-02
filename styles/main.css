@@ -54,6 +54,11 @@ nav ul li {
 	margin: 0;
 }
 
+h3 ul li {
+	color: black;
+	text-align: left;
+}
+
 p {
 	background: none;
 	color: black;
@@ -78,6 +83,10 @@ a:hover {
 a:active {
 	text-decoration: none;
 	color: #ff5c5c;
+}
+
+.pager {
+
 }
 
 footer {
