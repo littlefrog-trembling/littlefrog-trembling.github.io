@@ -3,40 +3,40 @@ body {
 	margin-right: auto;
 	width: 600px;
 	font-family: Georgia;
-	background: #AA1D23;
+	background: black;
 }
 
 header {
-	background: #AA1D23;
-	color: black;
+	background: transparent;
+	color: white;
 	padding: 20px;
 	text-align: center;
 	width:100%;
 }
 
 header h1 {
-	color: black;
+	color: white;
 	font-family: arial;
 }
 
 header h1 a:link {
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 header h1 a:visited {
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 header h1 a:hover {
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 header h1 a:active {
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 nav ul {
@@ -84,7 +84,7 @@ a:link {
 
 a:visited {
 	text-decoration: none;
-	color: #ffff5c;
+	color: #ff5c5c;
 }
 
 a:hover {
