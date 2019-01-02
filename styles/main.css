@@ -59,6 +59,10 @@ h3 ul li {
 	text-align: left;
 }
 
+hr {
+        transform: rotate(7deg);
+     }
+
 p {
 	background: none;
 	color: black;
