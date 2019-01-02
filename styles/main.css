@@ -1,18 +1,19 @@
 body {
-	margin: 0;
-	background: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	background: none;
 	font-family: georgia;
 }
 
 header {
-	background: #999999;
+	background: none;
 	color: black;
 	padding: 20px;
 }
 
 header h1 {
 	color: black;
-
 }
 
 nav ul {
@@ -35,6 +36,25 @@ p {
 	padding: 10px;
 }
 
-a {
+a:link {
 	color: #ff5c5c;
+}
+
+a:visited {
+	color: #ffff5c;
+}
+
+a:hover {
+	color: #5c5cff;
+}
+
+a:active {
+	color: #ff5c5c;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	color: white;
+	background: black;
 }
