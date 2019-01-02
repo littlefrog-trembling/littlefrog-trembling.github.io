@@ -2,7 +2,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 600px;
-	background-image: https://i.pinimg.com/originals/ab/f9/46/abf946c233dc3f32ae6039d20ae8081a.jpg ("mutedflowers.jpg");
+	background-image: url("https://i.pinimg.com/originals/ab/f9/46/abf946c233dc3f32ae6039d20ae8081a.jpg");
 	background-repeat: repeat-x;
 	font-family: georgia;
 }
