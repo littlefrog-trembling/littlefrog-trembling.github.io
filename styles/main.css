@@ -1,7 +1,6 @@
 body {
 	margin-left: auto;
 	margin-right: auto;
-	width: 600px;
 	font-family: georgia;
 }
 
@@ -55,6 +54,7 @@ nav ul li {
 p {
 	background: none;
 	color: black;
+	width: 600px;
 	padding: 10px;
 }
 
