@@ -96,6 +96,7 @@ hr {
         margin-top: 5%;
         margin-bottom: 5%;
         transform: rotate(7deg);
+	border-color: black;
 }
 
 footer {
