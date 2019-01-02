@@ -2,7 +2,8 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 600px;
-	background: none;
+	background-image: https://i.pinimg.com/originals/ab/f9/46/abf946c233dc3f32ae6039d20ae8081a.jpg ("mutedflowers.jpg");
+	background-repeat: repeat-x;
 	font-family: georgia;
 }
 
@@ -10,9 +11,30 @@ header {
 	background: none;
 	color: black;
 	padding: 20px;
+	text-align: center;
 }
 
 header h1 {
+	color: black;
+}
+
+header h1 a:link {
+	text-decoration: none;
+	color: black;
+}
+
+header h1 a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+header h1 a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+header h1 a:active {
+	text-decoration: none;
 	color: black;
 }
 
@@ -22,10 +44,11 @@ nav ul {
 }
 
 nav ul li {
-	background: #5c5cff;
+	background: none;
 	color: #ff5c5c;
 	display: inline-block;
 	list-style-type: none;
+	text-align: center;
 	padding: 5px 15px;
 	margin: 0;
 }
@@ -37,24 +60,30 @@ p {
 }
 
 a:link {
+	text-decoration: none;
 	color: #ff5c5c;
 }
 
 a:visited {
+	text-decoration: none;
 	color: #ffff5c;
 }
 
 a:hover {
+	text-decoration: none;
 	color: #5c5cff;
 }
 
 a:active {
+	text-decoration: none;
 	color: #ff5c5c;
 }
 
 footer {
 	position: absolute;
 	bottom: 0;
-	color: white;
+	width: 100%;
 	background: black;
+	text-align: center;
+	padding: 10px;
 }
