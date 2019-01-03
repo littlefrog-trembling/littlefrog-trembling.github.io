@@ -72,7 +72,7 @@ h3 {
 }
 
 p {
-	background: none;
+	background: white;
 	color: black;
 	padding: 10px;
 }
@@ -95,10 +95,6 @@ a:hover {
 a:active {
 	text-decoration: none;
 	color: #ff5c5c;
-}
-
-.nw-resize {
-	color: #ff5c5c
 }
 
 .blog-post {
