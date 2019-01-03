@@ -101,6 +101,10 @@ a:active {
 	color: #ff5c5c
 }
 
+.blog-post {
+	background:white;
+	color:black;
+}
 .pager {
 
 }
