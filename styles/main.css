@@ -101,7 +101,7 @@ a:active {
 	color: #ff5c5c;
 }
 
-.pager {
+.pager ul li {
 	background: transparent;
 	display: inline-block;
 	list-style-type: none;
