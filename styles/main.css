@@ -6,6 +6,10 @@ body {
 	background: #ff5c5c;
 }
 
+.container {
+	background: white;
+}
+
 header {
 	background: black;
 	color: white;
