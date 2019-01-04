@@ -97,6 +97,10 @@ a:active {
 	color: #ff5c5c;
 }
 
+.container {
+	background: #ff5c5c;
+}
+
 .pager {
 	display: inline-block;
 	float: left;
