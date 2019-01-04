@@ -3,11 +3,11 @@ body {
 	margin-right: auto;
 	width: 600px;
 	font-family: Georgia;
-	background: black;
+	background: white;
 }
 
 header {
-	background: transparent;
+	background: black;
 	color: white;
 	padding: 20px;
 	text-align: center;
@@ -16,7 +16,7 @@ header {
 
 header h1 {
 	color: white;
-	font-family: arial;
+	font-family: Georgia;
 }
 
 header h1 a:link {
@@ -55,27 +55,26 @@ nav ul li {
 }
 
 h2 {
-	color: black;
+	color: #5c5cff;
 	font-family: Georgia;
 }
 
 h3 ul li {
-	color: black;
+	color: white;
 	text-align: left;
 	font-family: Georgia;
 }
 
 h3 {
-	color: black;
+	color: white;
 	text-align: left;
 	font-family: Trebuchet MS;
 }
 
 p {
-	background: white;
+	background: none;
 	color: black;
 	padding: 10px;
-	width: 90%;
 }
 
 a:link {
@@ -98,10 +97,6 @@ a:active {
 	color: #ff5c5c;
 }
 
-.blog-post {
-	background:white;
-	color:black;
-}
 .pager {
 
 }
