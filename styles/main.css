@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-	background: white;
+	background: black;
 }
 
 .pager {
@@ -79,28 +79,28 @@ h3 {
 	font-family: Trebuchet MS;
 }
 
-ul li {
+h3 ul li {
 	color: white;
 	text-align: left;
 	font-family: Georgia;
 }
 
-ul li a:link {
+h3 ul li a:link {
 	text-decoration: none;
 	color: white;
 }
 
-ul li a:visited {
+h3 ul li a:visited {
 	text-decoration: none;
 	color: white;
 }
 
-ul li a:hover {
+h3 ul li a:hover {
 	text-decoration: none;
 	color: #ff5c5c;
 }
 
-ul li a:active {
+h3 ul li a:active {
 	text-decoration: none;
 	color: #5c5cff;
 }
