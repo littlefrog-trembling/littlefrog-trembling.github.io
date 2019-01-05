@@ -69,28 +69,6 @@ h3 {
 	font-family: Trebuchet MS;
 }
 
-h3 ul li {
-	color: white;
-	text-align: left;
-	font-family: Georgia;
-}
-
-h3 ul li a:link {
-	color: white;
-}
-
-h3 ul li a:visited {
-	color: white;
-}
-
-h3 ul li a:hover {
-	color: #ff5c5c;
-}
-
-h3 ul li a:active {
-	color: #5c5cff;
-}
-
 p {
 	background: none;
 	color: white;
@@ -101,22 +79,22 @@ p {
 
 a:link {
 	text-decoration: none;
-	color: #ff5c5c;
+	color: white;
 }
 
 a:visited {
 	text-decoration: none;
-	color: #ff5c5c;
+	color: white;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #5c5cff;
+	color: #ff5c5c;
 }
 
 a:active {
 	text-decoration: none;
-	color: #ff5c5c;
+	color: #5c5cff;
 }
 
 footer {
