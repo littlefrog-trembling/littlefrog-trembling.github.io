@@ -10,6 +10,16 @@ body {
 	background: white;
 }
 
+ul .pager li {
+	background: transparent;
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	padding: 5px 15px;
+	margin: 0;
+	text-decoration: none;
+}
+
 header {
 	background: black;
 	color: white;
