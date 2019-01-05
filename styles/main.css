@@ -77,6 +77,22 @@ p {
 	font-family: Georgia;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 1em; 
+  text-indent: -.7em;
+}
+
+li::before {
+  content: "• ";
+  color: white;
+}
+
 a:link {
 	color: white;
 }
