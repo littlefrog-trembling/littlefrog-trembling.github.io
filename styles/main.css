@@ -10,16 +10,6 @@ body {
 	background: black;
 }
 
-.pager {
-	background: transparent;
-	display: inline-block;
-	list-style-type: none;
-	text-align: center;
-	padding: 5px 15px;
-	margin: 0;
-	text-decoration: none;
-}
-
 nav ul {
 	margin: 0;
 	display: ;
@@ -86,22 +76,18 @@ h3 ul li {
 }
 
 h3 ul li a:link {
-	text-decoration: none;
 	color: white;
 }
 
 h3 ul li a:visited {
-	text-decoration: none;
 	color: white;
 }
 
 h3 ul li a:hover {
-	text-decoration: none;
 	color: #ff5c5c;
 }
 
 h3 ul li a:active {
-	text-decoration: none;
 	color: #5c5cff;
 }
 
