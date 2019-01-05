@@ -3,7 +3,7 @@ body {
 	margin-right: auto;
 	width: 600px;
 	font-family: Georgia;
-	background: #ff5c5c;
+	background: black;
 }
 
 .container {
@@ -107,7 +107,7 @@ h3 ul li a:active {
 
 p {
 	background: none;
-	color: black;
+	color: white;
 	text-align: left;
 	padding: 10px;
 	font-family: Georgia;
