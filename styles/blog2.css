@@ -1,0 +1,123 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+	font-family: Georgia;
+  background-image: url("https://i.pinimg.com/originals/66/4f/95/664f95ddba99c0474306381633f0c948.jpg")
+	background-color: #ff5c5c;
+}
+
+.container {
+	background: white;
+	padding: 20px
+}
+
+.pager {
+	background: transparent;
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	padding: 5px 15px;
+	margin: 0;
+	text-decoration: none;
+}
+
+nav ul {
+	margin: 0;
+	display: ;
+}
+
+nav ul li {
+	background: none;
+	color: #ff5c5c;
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	padding: 5px 15px;
+	margin: 0;
+}
+
+header {
+	background: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	width:100%;
+}
+
+header h1 {
+	color: white;
+	font-family: Georgia;
+}
+
+header h1 a:link {
+	text-decoration: none;
+	color: white;
+}
+
+header h1 a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+header h1 a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+header h1 a:active {
+	text-decoration: none;
+	color: white;
+}
+
+h2 {
+	color: #5c5cff;
+	font-family: Georgia;
+}
+
+h3 {
+	color: white;
+	text-align: right;
+	font-family: Trebuchet MS;
+}
+
+p {
+	background: none;
+	color: black;
+	text-align: left;
+	padding: 20px;
+	font-family: Georgia;
+}
+
+a:link {
+	text-decoration: none;
+	color: #ff5c5c;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #ff5c5c;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #5c5cff;
+}
+
+a:active {
+	text-decoration: none;
+	color: #ff5c5c;
+}
+
+footer {
+	position: fixed;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	background: black;
+	text-align: center;
+	font-family: Georgia;
+	padding: 15px;
+}
