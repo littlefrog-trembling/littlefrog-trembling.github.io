@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head>
+		<title>littlefrog.trembling</title>
+		<link href="styles/ahn.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1><a href="index.html">☉</a></h1>
+				<br>
+				<img src="https://static1.squarespace.com/static/54a3050ce4b0c6528da808fb/5b04d33a2b6a2870b17e1f3f/5b04d33a2b6a2870b17e1f94/1527042741631/sm287-1_preview.jpeg?format=2500w" alt="Young-Il Ahn" width= 80% style="border:5px solid white">
+				<p>Painting by Young-il Ahn, <em>Water SM 287</em>(1940), oil on canvas</p>
+				<p>Artist Statement:</p>
+        <p>I lived close to the ocean. When I wasn't painting, I took great pleasure in heading out to sea in a fishing boat. Out on the boat, in the breeze, bobbing on the waves, my body and mind felt a wonderful release from the cares of the world as I cast my line. As I reeled in my fish, I was often also able to "reel in" exciting ideas for my paintings.</p>
+        <p>Beyond the distant horizon, the endless, vast ocean, that boundless space! And that ocean holding within its vastness, the countless creatures of the sea! I was humbled by the awe-inspiring way the ocean hides such mysteries beneath its simple vastness. As an artist who had spent his whole life seeking beauty and trying to express it, I was moved by the ocean's ability to radiate such profound beauty at any given moment.</p>
+        <p>As the rays of the sun tumble into the ocean, the light spreads in an array of colors as if through a prism. At times, the light may reflect brilliantly and at other times it shimmers with more subdued intensity.</p>
+        <p>The constantly moving atmosphere, the shifting sounds, the changing shape of the waves, light and color changing moment by moment—there is no moment when it can ever stop and no moment can ever look the same as the process of change and rebirth goes forward and yet ... and yet the sea never changes and is forever constant.</p>
+        <p>So, when I look out upon the ocean, I tremble as if I am holding part of the universe in my hand. This is why, for the past thirty years I have ceaselessly tried, through The Water Series, to put that "tremble" onto my canvasses.</p>
+				<br>
+			</header>
+			<h3><u>CONTENTS</u></h3>
+				<ul> 
+					<li><a href="blog.html">The Smell of Things</a></li>
+					<li><a href="http://mixcloud.com/radioparty">Radio Party</a></li>
+					<li><a href="http://studentcampaigns.wordpress.com/resources-for-radicals">Book Party - Reading Group</a></li>
+					<li><a href="http://studentcampaigns.wordpress.com">Resources for Organizing</a></li>
+				</ul>
+				<br>
+				<br>
+				<br>
+				<br>
+		</div>
+			<footer>conspiring for fun</footer>
+	</body>
+</html>
