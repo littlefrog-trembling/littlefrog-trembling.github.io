@@ -3,8 +3,8 @@ body {
 	margin-right: auto;
 	width: 750px;
 	font-family: Georgia;
-	background-image: url("https://i.pinimg.com/originals/66/4f/95/664f95ddba99c0474306381633f0c948.jpg");
-	background-color: #ff5c5c;
+	background-image: none;
+	background-color: #264843;
 }
 
 .container {
@@ -83,7 +83,7 @@ h3 {
 
 p {
 	background: none;
-	color: black;
+	color: #CFC88B;
 	text-align: left;
 	padding: 20px;
 	font-family: Georgia;
