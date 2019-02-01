@@ -8,12 +8,12 @@ body {
 }
 
 .container {
-	background: transparent;
+	background: none;
 	padding: 20px
 }
 
 .pager {
-	background: transparent;
+	background: none;
 	display: inline-block;
 	list-style-type: none;
 	text-align: center;
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 header {
-	background: transparent;
+	background: none;
 	color: white;
 	padding: 20px;
 	text-align: center;
