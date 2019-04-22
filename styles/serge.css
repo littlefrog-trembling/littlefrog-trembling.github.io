@@ -90,11 +90,6 @@ li {
 	text-indent: -.7em;
 }
 
-li::before {
-	content: "• ";
-	color: white;
-}
-
 a:link {
 	text-decoration: none;
 	color: white;
