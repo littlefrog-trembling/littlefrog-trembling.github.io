@@ -6,6 +6,8 @@ var quotes = [
   'fudsicle-eating boss'
   'goals: make sexy anthem.'
   'paypal $80'
+  'Fujiwhara Effect: The tendency of two nearby tropical cyclones to rotate cyclonically about each other.'
+  'atlantis christmas'
   ]
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (quotes.length));
