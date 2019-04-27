@@ -1,6 +1,6 @@
 var quotes = [
   'Dream. I ask, "do you think Im in trouble?"" Then she says, "right now, ...maybe. Cosmically? Definitely." So we stand there a while. She looks at me and says "Ill see what I can do."'
-  'was there scaffolding around the Tower of Bable?'
+  'was there scaffolding around the Tower of Babel?'
   'a man clapping passionately. tear streams down.'
   'phantom bread'
   'fudsicle-eating boss'
