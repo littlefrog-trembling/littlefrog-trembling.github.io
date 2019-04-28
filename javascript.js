@@ -8,6 +8,7 @@ var quotes = [
   'paypal $80'
   'Fujiwhara Effect: The tendency of two nearby tropical cyclones to rotate cyclonically about each other.'
   'atlantis christmas'
+  'to the bat, is there an echo that sounds most beautiful?'
   ]
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (quotes.length));
