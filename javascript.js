@@ -9,6 +9,7 @@ var quotes = [
   'Fujiwhara Effect: The tendency of two nearby tropical cyclones to rotate cyclonically about each other.'
   'atlantis christmas'
   'to the bat, is there an echo that sounds most beautiful?'
+  'man yells in the street, "Gravity is a perversion." Gravity is a perversion? "Oh no mam, depravity. Gravity is fine."'
   ]
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (quotes.length));
