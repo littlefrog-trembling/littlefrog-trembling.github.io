@@ -1,0 +1,123 @@
+
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	font-family: Georgia;
+	background: #694489;
+}
+
+.container {
+	background: none;
+}
+
+nav ul {
+	margin: 0;
+	display: ;
+}
+
+nav ul li {
+	background: none;
+	color: #ff5c5c;
+	display: inline-block;
+	list-style-type: none;
+	text-align: left;
+	padding: 5px 15px;
+	margin: 0;
+}
+
+header {
+	background: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	width:100%;
+}
+
+header h1 {
+	color: white;
+	font-family: Georgia;
+}
+
+header h1 a:link {
+	text-decoration: none;
+	color: white;
+}
+
+header h1 a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+header h1 a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+header h1 a:active {
+	text-decoration: none;
+	color: white;
+}
+
+h2 {
+	color: #5c5cff;
+	font-family: Georgia;
+}
+
+h3 {
+	color: white;
+	text-align: left;
+	font-family: Trebuchet MS;
+}
+
+p {
+	background: none;
+	color: white;
+	text-align: left;
+	padding: 10px;
+	font-family: Georgia;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	text-decoration: none;
+	padding-left: 1em; 
+	text-indent: -.7em;
+}
+
+a:link {
+	text-decoration: none;
+	color: white;
+}
+
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #ff5c5c;
+}
+
+a:active {
+	text-decoration: none;
+	color: #5c5cff;
+}
+
+footer {
+	right: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	background: black;
+	text-align: center;
+	font-family: Georgia;
+	padding: 15px;
+}
