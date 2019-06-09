@@ -10,6 +10,7 @@ var quotes = [
   'atlantis christmas'
   'to the bat, is there an echo that sounds most beautiful?'
   'man yells in the street, "Gravity is a perversion." Gravity is a perversion? "Oh no mam, depravity. Gravity is fine."'
+  'befuddled wizard does a magic show'
   ]
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (quotes.length));
